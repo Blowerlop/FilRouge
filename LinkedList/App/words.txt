@@ -1,0 +1,10 @@
+coucou
+bonjour
+hello
+cpp
+programme
+type
+pointeur
+reference
+valeur
+compilation
